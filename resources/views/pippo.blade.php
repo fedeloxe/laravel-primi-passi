@@ -9,12 +9,12 @@
 </head>
 
 <body>
-    <h1>
-        Pippo Pluto Paperino
-    </h1>
-    <a href="{{route('pippo')}}">Pippo</a>
+    <h1>Questa è la pagina di pippo</h1>
+    <img src="https://upload.wikimedia.org/wikipedia/it/f/fc/Pippo_Disney.png" alt="pippo">
     <a href="{{route('pluto')}}">Pluto</a>
     <a href="{{route('paperino')}}">Paperino</a>
+    <a href="{{route('home')}}">Home</a>
+
 </body>
 
 </html>

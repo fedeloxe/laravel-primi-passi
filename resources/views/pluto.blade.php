@@ -9,12 +9,11 @@
 </head>
 
 <body>
-    <h1>
-        Pippo Pluto Paperino
-    </h1>
+    <h1>Questa è la pagina di pluto</h1>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFM0bs2A_7dXQ9Yqj3j2gJDb4nc3vg722uLhQgvGPfoMXwo228obhMLtIueO8TiUE1ho0&usqp=CAU" alt="pluto">
     <a href="{{route('pippo')}}">Pippo</a>
-    <a href="{{route('pluto')}}">Pluto</a>
     <a href="{{route('paperino')}}">Paperino</a>
+    <a href="{{route('home')}}">Home</a>
 </body>
 
 </html>
